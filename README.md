@@ -1,6 +1,6 @@
 <h1>Criando seu jogo no estilo Space Shooter</h1>
 
-Curso do Bootcamp Órbi Web Game Developer da (https://digitalinnovation.one/)[Digital Innovation One.]
+Curso do Bootcamp Órbi Web Game Developer da [https://digitalinnovation.one/]([Digital Innovation One.)
 
 Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. 
 Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando 
