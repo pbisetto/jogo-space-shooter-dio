@@ -1,4 +1,4 @@
-:boom::alien:<h1>Criando seu jogo no estilo Space Shooter</h1>:alien::boom:
+<h1>:boom::alien:Criando seu jogo no estilo Space Shooter:alien::boom:</h1>
 
 Curso do Bootcamp Órbi Web Game Developer da [https://digitalinnovation.one/](Digital Innovation One.)
 
