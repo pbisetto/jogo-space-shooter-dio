@@ -1,4 +1,4 @@
->h1>Criando seu jogo no estilo Space Shooter
+<h1>Criando seu jogo no estilo Space Shooter
 Digital Innovation One</h1>
 
 <h2>Curso do Bootcamp JavaScript Game Developer da Digital Innovation One.
